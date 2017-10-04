@@ -1,0 +1,26 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Vim
+*.swp
+
+# Unity
+/Library
+/Temp
+/Packages
+
+/Extras/backup
+/HoudiniTemp
+
+/Assets/FFmpegOut
+/Assets/FFmpegOut.meta
+/Assets/HoudiniEngine
+/Assets/HoudiniEngine.meta
+/Assets/PostProcessing
+/Assets/PostProcessing.meta
+/Assets/StreamingAssets
+/Assets/StreamingAssets.meta
